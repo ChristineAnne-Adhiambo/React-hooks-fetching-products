@@ -1,0 +1,39 @@
+.navbar{
+    box-shadow: 0px 15px 10px -15px #d8d8d8;
+    color:  #124aa1;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 0 5em;
+    margin-bottom: 6em;
+}
+
+
+.navbar-menu{
+    display: flex;
+    float: right;
+}
+
+.navbar-menu li{
+    padding: 1em 1em;
+    list-style: none;
+    text-decoration: none !important;
+    color: #ffffff !important;
+}
+
+.navbar-menu li:hover{
+    color: #1249a1cc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
